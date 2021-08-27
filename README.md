@@ -2,3 +2,6 @@
 - :books: Estudando JavaScript
 - :envelope: Contate-me no email: caarloos1997@hotmail.com
 
+[![card](https://github-readme-stats.vercel.app/api?username=carlosramos&theme=default)](https://github.com/ramos-carlos/)
+
+
