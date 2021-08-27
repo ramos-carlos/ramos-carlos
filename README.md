@@ -9,7 +9,6 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-carlos&hide=html&layout=compact&theme=cobalt)](https://github.com/ramos-carlos/)
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 
