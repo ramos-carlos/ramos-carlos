@@ -9,9 +9,7 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-carlos&hide=html&layout=compact&theme=default)](https://github.com/ramos-carlos/)
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=ramos-carlos)](https://github.com/ramos-carlos/github-readme-stats)
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 
