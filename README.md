@@ -4,4 +4,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=carlosramos&theme=default)](https://github.com/ramos-carlos/)
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosramos&hide=html&layout=compact&theme=default)](https://github.com/ramos-carlos/)
+
+
 
