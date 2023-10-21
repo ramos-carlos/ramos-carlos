@@ -1,12 +1,15 @@
-## Olá! Eu sou o Carlos Ramos 
+## Olá! Eu sou o Carlos Ramos 🖐️
  <div>
   <a href="https://github.com/ramos-carlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramos-carlos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-carlos&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+   
+ ## Tecnlogias que uso no meu dia
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Carlos-PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
