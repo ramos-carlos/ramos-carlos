@@ -1,19 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
-
-<h1 align="center">Olá, sou o Carlos Ramos 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻 Sobre mim <br><br>Sou Desenvolvedor e futuro Arquiteto de Software, com experiência em Java (Spring Boot), Angular, PHP, JavaScript e MySQL.<br><br>Tenho base sólida em arquitetura de sistemas, orientação a objetos, boas práticas de desenvolvimento e integração entre aplicações front-end e back-end.<br><br>Atualmente, aprofundo meus conhecimentos em Java e Spring Boot com foco em microserviços, APIs REST e padrões de projeto, aplicando essas práticas em projetos pessoais e acadêmicos.<br><br>Formação:<br>Graduação em Análise e Desenvolvimento de Sistemas<br>Pós-graduação em Arquitetura de Software em Java<br><br>Habilidades Técnicas:<br>Frontend: JavaScript, Angular, consumo de APIs REST <br>Backend: Java, Spring, Spring Boot, PHP<br>Banco de Dados e Ferramentas: MySQL, Oracle SQL Developer, Git, GitHub</h3>
 
 ###
